@@ -1,0 +1,11 @@
+# dsh-pavement-design-methods - DSH bundle patch.
+#
+# Registers the `pavement-design-methods` skill: 《路面设计原理与方法》(9 usable chapters, 76 capability cards)
+# behind ONE entry with a one-level router.
+#
+# Must be wrapped in `- insert:` - a bare `- id: ...` row only overrides an existing row's config.
+
+- insert:
+    - id: pavement-design-methods-skill
+      name: 'dsh-pavement-design-methods/startup'
+      inject: [skills]

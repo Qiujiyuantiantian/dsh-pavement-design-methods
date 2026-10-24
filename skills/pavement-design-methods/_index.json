@@ -1,0 +1,481 @@
+[
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K1-layer-material",
+    "file": "cards/ch1/ch1-K1-layer-material.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K2-interface-continuity",
+    "file": "cards/ch1/ch1-K2-interface-continuity.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K3-seven-qualities",
+    "file": "cards/ch1/ch1-K3-seven-qualities.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K4-method-genealogy",
+    "file": "cards/ch1/ch1-K4-method-genealogy.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K5-airport-vs-highway",
+    "file": "cards/ch1/ch1-K5-airport-vs-highway.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch1",
+    "slug": "ch1-K6-reliability-limit",
+    "file": "cards/ch1/ch1-K6-reliability-limit.md",
+    "title": "概论"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C1-conversion-chain",
+    "file": "cards/ch2/ch2-C1-conversion-chain.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C2-exponent-caliber",
+    "file": "cards/ch2/ch2-C2-exponent-caliber.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C3-three-reductions",
+    "file": "cards/ch2/ch2-C3-three-reductions.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C4-data-ceiling",
+    "file": "cards/ch2/ch2-C4-data-ceiling.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C5-defect-triage",
+    "file": "cards/ch2/ch2-C5-defect-triage.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C6-b-two-pages",
+    "file": "cards/ch2/ch2-C6-b-two-pages.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C7-tandem-two-calibers",
+    "file": "cards/ch2/ch2-C7-tandem-two-calibers.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch2",
+    "slug": "ch2-C8-cumulation-and-cap",
+    "file": "cards/ch2/ch2-C8-cumulation-and-cap.md",
+    "title": "车辆与交通"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K1-which-system-first",
+    "file": "cards/ch3/ch3-K1-which-system-first.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K2-zone-grading",
+    "file": "cards/ch3/ch3-K2-zone-grading.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K3-how-to-read-code",
+    "file": "cards/ch3/ch3-K3-how-to-read-code.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K4-dry-wet-stops",
+    "file": "cards/ch3/ch3-K4-dry-wet-stops.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K5-temperature-gradient",
+    "file": "cards/ch3/ch3-K5-temperature-gradient.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch3",
+    "slug": "ch3-K6-boundary-book3-and-figures",
+    "file": "cards/ch3/ch3-K6-boundary-book3-and-figures.md",
+    "title": "气候与环境"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C1-three-kinds-of-numbers",
+    "file": "cards/ch4/ch4-C1-three-kinds-of-numbers.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C2-four-questions",
+    "file": "cards/ch4/ch4-C2-four-questions.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C3-value-baseline",
+    "file": "cards/ch4/ch4-C3-value-baseline.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C4-curing-age-tracks",
+    "file": "cards/ch4/ch4-C4-curing-age-tracks.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C5-three-moduli",
+    "file": "cards/ch4/ch4-C5-three-moduli.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C6-no-conversion",
+    "file": "cards/ch4/ch4-C6-no-conversion.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C7-variation-and-reduction",
+    "file": "cards/ch4/ch4-C7-variation-and-reduction.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C8-concrete-flexural-only",
+    "file": "cards/ch4/ch4-C8-concrete-flexural-only.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch4",
+    "slug": "ch4-C9-testable-but-no-coefficients",
+    "file": "cards/ch4/ch4-C9-testable-but-no-coefficients.md",
+    "title": "路基路面材料特性"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K1-section-switch",
+    "file": "cards/ch5/ch5-K1-section-switch.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K2-assumptions-interface",
+    "file": "cards/ch5/ch5-K2-assumptions-interface.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K3-trunk-breaks",
+    "file": "cards/ch5/ch5-K3-trunk-breaks.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K4-nonlinear-calibration",
+    "file": "cards/ch5/ch5-K4-nonlinear-calibration.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K5-viscoelastic-correspondence",
+    "file": "cards/ch5/ch5-K5-viscoelastic-correspondence.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K6-response-directions",
+    "file": "cards/ch5/ch5-K6-response-directions.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch5",
+    "slug": "ch5-K7-fracture-fatigue",
+    "file": "cards/ch5/ch5-K7-fracture-fatigue.md",
+    "title": "沥青路面结构力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M1-which-section-solution",
+    "file": "cards/ch6/ch6-M1-which-section-solution.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M2-slab-thickness-floor",
+    "file": "cards/ch6/ch6-M2-slab-thickness-floor.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M3-joint-load-transfer-cw",
+    "file": "cards/ch6/ch6-M3-joint-load-transfer-cw.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M4-temperature-two-segments",
+    "file": "cards/ch6/ch6-M4-temperature-two-segments.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M5-friction-resistance-results",
+    "file": "cards/ch6/ch6-M5-friction-resistance-results.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch6",
+    "slug": "ch6-M6-stop-gates",
+    "file": "cards/ch6/ch6-M6-stop-gates.md",
+    "title": "水泥混凝土路面力学性能分析"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K1-method-routing",
+    "file": "cards/ch7/ch7-K1-method-routing.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K10-subgrade-moisture",
+    "file": "cards/ch7/ch7-K10-subgrade-moisture.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K11-empirical-limits",
+    "file": "cards/ch7/ch7-K11-empirical-limits.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K2-index-assignment",
+    "file": "cards/ch7/ch7-K2-index-assignment.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K3-caliber-map",
+    "file": "cards/ch7/ch7-K3-caliber-map.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K4-2017-verification",
+    "file": "cards/ch7/ch7-K4-2017-verification.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K5-seasonal-frost",
+    "file": "cards/ch7/ch7-K5-seasonal-frost.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K6-acceptance-deflection",
+    "file": "cards/ch7/ch7-K6-acceptance-deflection.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K7-aashto1993-chain",
+    "file": "cards/ch7/ch7-K7-aashto1993-chain.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K8-fatigue-equation",
+    "file": "cards/ch7/ch7-K8-fatigue-equation.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch7",
+    "slug": "ch7-K9-structure-combination",
+    "file": "cards/ch7/ch7-K9-structure-combination.md",
+    "title": "公路沥青路面设计方法"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C1-routing",
+    "file": "cards/ch9/ch9-C1-routing.md",
+    "title": "机场道面设计方法",
+    "heading": "C1 章级路由：三问归四族，一接口"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C10-pcn",
+    "file": "cards/ch9/ch9-C10-pcn.md",
+    "title": "机场道面设计方法",
+    "heading": "C10 PCN 通报与例 9-2：全章唯一能复算的算例"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C2-four-thresholds",
+    "file": "cards/ch9/ch9-C2-four-thresholds.md",
+    "title": "机场道面设计方法",
+    "heading": "C2 四个门槛：1.05／0.8~1.1／1.0／≤1.0~1.1"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C3-grading-zoning",
+    "file": "cards/ch9/ch9-C3-grading-zoning.md",
+    "title": "机场道面设计方法",
+    "heading": "C3 定级与分区减薄：四步不许跨表"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C4-inputs",
+    "file": "cards/ch9/ch9-C4-inputs.md",
+    "title": "机场道面设计方法",
+    "heading": "C4 输入四口径：轮载、轮印、胎压、漫行"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C5-strip-cdf",
+    "file": "cards/ch9/ch9-C5-strip-cdf.md",
+    "title": "机场道面设计方法",
+    "heading": "C5 条带法：七步到 CDF，第六步交软件"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C6-three-breaks",
+    "file": "cards/ch9/ch9-C6-three-breaks.md",
+    "title": "机场道面设计方法",
+    "heading": "C6 板厚三断：根指数、10⁻¹⁰、整分式指数"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C7-joints",
+    "file": "cards/ch9/ch9-C7-joints.md",
+    "title": "机场道面设计方法",
+    "heading": "C7 接缝与配筋：三种筋分工，两套表不互借"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C8-faa",
+    "file": "cards/ch9/ch9-C8-faa.md",
+    "title": "机场道面设计方法",
+    "heading": "C8 FAA 三坎两表：5.67t／27.2t／45.359t"
+  },
+  {
+    "chapter": "ch9",
+    "slug": "ch9-C9-ek-cbr",
+    "file": "cards/ch9/ch9-C9-ek-cbr.md",
+    "title": "机场道面设计方法",
+    "heading": "C9 E／K／CBR：一条关系，不是三条式子"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C1-version-axis",
+    "file": "cards/ch8/ch8-C1-version-axis.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C1 认版本：六代纵轴"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C10-stop-gates",
+    "file": "cards/ch8/ch8-C10-stop-gates.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C10 停判点：图缺、表空、式残、撞号、界外"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C11-current-code-chain",
+    "file": "cards/ch8/ch8-C11-current-code-chain.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C11 现行方法链：从交通到判据，断在 8-103"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C12-crcp-reinforcement",
+    "file": "cards/ch8/ch8-C12-crcp-reinforcement.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C12 CRCP 配筋率：三判据、五限值、一个百分数口径"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C13-three-standard-axles",
+    "file": "cards/ch8/ch8-C13-three-standard-axles.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C13 三套标准轴与两张表：18 klb 的表、100 kN 的幂、80 kN 的当量"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C2-allowable-by-position",
+    "file": "cards/ch8/ch8-C2-allowable-by-position.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C2 取容许值：三档按荷位"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C3-three-checks",
+    "file": "cards/ch8/ch8-C3-three-checks.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C3 复核三处：板中→板角→叠加"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C4-criterion-shape",
+    "file": "cards/ch8/ch8-C4-criterion-shape.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C4 判据形状：双侧带／单侧／极限／累加"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C5-coefficient-chain",
+    "file": "cards/ch8/ch8-C5-coefficient-chain.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C5 系数链同版：kc／kf／kr／kt／γr"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C6-axle-conversion",
+    "file": "cards/ch8/ch8-C6-axle-conversion.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C6 轴载换算：16 次方的来历与两处见即停"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C7-joint-spacing",
+    "file": "cards/ch8/ch8-C7-joint-spacing.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C7 缩缝间距：上限、控制值与应急"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C8-dowel-bar",
+    "file": "cards/ch8/ch8-C8-dowel-bar.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C8 传力杆：查表选型与两套分载口径"
+  },
+  {
+    "chapter": "ch8",
+    "slug": "ch8-C9-load-transfer-caliber",
+    "file": "cards/ch8/ch8-C9-load-transfer-caliber.md",
+    "title": "公路水泥混凝土路面设计方法",
+    "heading": "C9 传荷系数：五套口径，先认后算"
+  }
+]
