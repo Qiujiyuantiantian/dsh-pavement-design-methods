@@ -1,31 +1,63 @@
 dsh-pavement-design-methods
 ============================
 
-A STUDY AID and CRITICAL COMMENTARY derived from the Chinese monograph
-《路面设计原理与方法》(第 4 版), published by 人民交通出版社.
+MIT licensed, with an explicit scope carve-out - see LICENSE. The MIT grant covers only the
+material originated by this package's author. It does not cover, and does not purport to
+cover, anything belonging to the source work.
 
-What this package is:
 
-  * a structured paraphrase of the book's arguments, written in our own words, with page
-    references so a reader can check every claim against the printed book;
+Source work
+-----------
+
+    《路面设计原理与方法》（第 4 版）
+    黄晓明、马涛 等 编著
+    人民交通出版社股份有限公司，2021 年 8 月第 4 版（总第 13 次印刷）
+    ISBN 978-7-114-17560-2，484 页，759 千字
+    责任编辑：李瑞
+
+    Chapters distilled: all nine — 1 概论, 2 车辆与交通, 3 气候与环境,
+    4 路基路面材料特性, 5 沥青路面结构力学性能分析, 6 水泥混凝土路面力学性能分析,
+    7 公路沥青路面设计方法, 8 公路水泥混凝土路面设计方法, 9 机场道面设计方法.
+
+
+What this package is
+--------------------
+
+  * a structured paraphrase of the book's arguments, written in this package's own words, with
+    page references so a reader can check every claim against the printed book;
+
   * an ERRATA REGISTER: roughly a hundred transcription defects, internal contradictions and
     numbering faults found while distilling the book are documented card by card, each with the
-    page and, where possible, a recomputation. This register is the package's own contribution;
-  * a boundary statement: the book's two design chapters contain no reproducible worked example,
-    and its only complete hand calculation ends with a wrong verdict. The package says so.
+    page and, where possible, a recomputation. This register is this package's own contribution;
 
-What this package is NOT:
+  * a boundary statement: the book's two highway design chapters contain no reproducible worked
+    example, and its only complete hand calculation ends with a wrong verdict. The package says so
+    rather than smoothing it over.
 
-  * it is not the book, and cannot substitute for it;
-  * it contains no verbatim passages. An automated audit against two source transcriptions found a
-    longest shared run of zero characters across all 63 cards; the few ten-character matches that
+
+What this package is NOT
+------------------------
+
+  * it is not the book, and cannot substitute for it. Read the book;
+
+  * it contains no verbatim passages. An automated audit against three source transcriptions found
+    a longest shared run of zero characters across all 76 cards; the few ten-character matches that
     remain are chapter titles, the book title, and parameter-name pairs used as table labels, all
     registered as structural exemptions;
-  * all formulas are marked unchecked against the printed page, and all numbers are marked as
-    transcription values.
 
-The book's chapter 9 (airport pavements) and the tail of chapter 8 were replaced by unrelated
-textbook content during transcription. This package declares them lost and does not invent them.
+  * all formulas are marked unchecked against the printed page, and all numbers are marked as
+    transcription values.  Every figure in the source book was lost in transcription; the cards say
+    so where it matters.
+
+
+Provenance note
+---------------
+
+The source PDF for this book was replaced during an earlier transcription: pages 393-495 came out as
+unrelated textbook material, and chapters 8 (tail) and 9 were accordingly believed lost. Both were
+recovered on 2026-10-24 by re-OCR of the original scan with a vision model, and the cards were
+rewritten against the recovered text. The recovery, its evidence, and the residual limits are
+documented in the skill's BOOK-MAP.md.
 
 Copyright in the underlying book remains with its authors and publisher.
 
