@@ -1,7 +1,7 @@
 {
   "name": "dsh-pavement-design-methods",
-  "version": "1.0.0",
-  "description": "An entire Chinese monograph on pavement design methods (9 usable chapters, 76 capability cards) distilled into one skill entry. The book's two design chapters contain NO reproducible worked example, and its only complete hand calculation ends with a wrong verdict -- this package makes that the core deliverable instead of hiding it. Covers design-method selection (China's seven editions, AASHTO, CBR, AI, Shell), indicator assignment, parameter calibers, axle-load conversion, climate zoning, material moduli, and the failure boundaries of five generations of mechanical models. Chapter 9 (airport pavements) and the tail of chapter 8 were replaced by unrelated textbook content during transcription and are declared lost, not invented.",
+  "version": "1.1.0",
+  "description": "An entire Chinese monograph on pavement design methods (9 usable chapters, 76 capability cards) distilled into one skill entry. The book's two design chapters contain NO reproducible worked example, and its only complete hand calculation ends with a wrong verdict -- this package makes that the core deliverable instead of hiding it. Covers design-method selection (China's seven editions, AASHTO, CBR, AI, Shell), indicator assignment, parameter calibers, axle-load conversion, climate zoning, material moduli, and the failure boundaries of five generations of mechanical models. Chapter 9 (airport pavements) was replaced by unrelated textbook content during an earlier transcription, then recovered on 2026-10-24 by re-OCR of the intact PDF: 10 cards, including the only fully reproducible worked example in the book. Its 45 figure numbers still have no figure content, and three slab-thickness formulas remain broken.",
   "type": "module",
   "main": "lib/startup.js",
   "exports": {

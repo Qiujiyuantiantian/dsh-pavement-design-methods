@@ -3,12 +3,12 @@ name: pavement-design-methods
 category: engineering
 description:
   en: >-
-    Pavement design methods as a judgement manual: 63 cards over 8 chapters covering method
+    Pavement design methods as a judgement manual: 76 cards over 9 chapters covering method
     selection (China's seven editions, AASHTO, CBR, AI, Shell), indicator assignment, parameter
     calibers, axle-load conversion, climate zoning, material moduli, and the failure boundaries of
-    five generations of mechanical models. Neither design chapter has a reproducible worked example,
-    and the book's only complete hand calculation ends with a wrong verdict -- both are documented.
+    five generations of mechanical models. Neither highway design chapter has a reproducible worked example, and the book's only complete
+    hand calculation ends with a wrong verdict -- both are documented. The airport chapter was
+    recovered by re-OCR and carries the one fully reproducible example.
   zh: >-
-    路面设计方法判据手册：8 章 76 张卡，覆盖方法选型（我国七版、AASHTO、CBR、AI、Shell）、指标指派、
-    参数口径、轴载换算、气候分区、材料模量，以及五代力学模型的失效边界。两大设计章都没有可复现算例，
-    唯一完整手算结论还是错的——两处都已记录。第九章机场道面在原转录中丢失，不补编。
+    路面设计方法判据手册：9 章 76 张卡，覆盖方法选型（我国七版、AASHTO、CBR、AI、Shell）、指标指派、
+    参数口径、轴载换算、气候分区、材料模量，以及五代力学模型的失效边界。两大公路设计章都没有可复现算例，唯一完整手算结论还是错的——两处都已记录。第九章机场道面曾整章丢失，2026-10-24 重扫恢复，10 张卡，含全书唯一可复现算例。
